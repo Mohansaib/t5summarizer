@@ -1,7 +1,6 @@
 # T5Summarizer
 
-A lightweight and efficient text summarization tool built using the T5 (Text-to-Text Transfer Transformer) model. This project leverages HuggingFace's `transformers` library and runs entirely offline once the model is downloaded.
-
+A lightweight and efficient text summarization tool built using the T5 (Text-to-Text Transfer Transformer) model. 
 ##  Features
 
 -  Abstractive summarization of long paragraphs
